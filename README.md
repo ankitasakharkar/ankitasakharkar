@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @ankitasakharkar
-- 👀 I’m interested in Web development,Python,Data Science,AI & ML
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Web Developement repositories and will soon start to contribute on Python ones as well
-- 📫 How to reach me ankitasakharkar@gmail.com
-- [![@ankitasakharkar's Holopin board](https://holopin.me/ankitasakharkar)](https://holopin.io/@ankitasakharkar)
+- 👋 Hi, I am Ankita,this is now a defunct account.
+- 📫 Reach out to me at my new Github account : [link](https://github.com/ankitasak08)
+- [![@ankitasakharkar's Holopin board](https://holopin.me/ankitasakharkar)]
 
 <!---
 ankitasakharkar/ankitasakharkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
